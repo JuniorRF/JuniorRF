@@ -1,6 +1,4 @@
-## Hi there 
-
-Привет, я программист
+Привет, я пограммист
 
 Пишу на Python, JavaScript, TypeScript
 
